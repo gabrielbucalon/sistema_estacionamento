@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EA!", "EA!\EA!.csproj", "{87D58F65-41A8-4CB8-8C34-58F3ED155841}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87D58F65-41A8-4CB8-8C34-58F3ED155841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87D58F65-41A8-4CB8-8C34-58F3ED155841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87D58F65-41A8-4CB8-8C34-58F3ED155841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87D58F65-41A8-4CB8-8C34-58F3ED155841}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51DC750D-410C-421A-A0A5-2678FBCEB318}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://gabrielbucalon.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = EA!\\EA!.csproj
+		SccProjectName1 = EA!
+		SccLocalPath1 = EA!
+	EndGlobalSection
+EndGlobal
